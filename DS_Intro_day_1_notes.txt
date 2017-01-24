@@ -1,0 +1,80 @@
+Class Day 1
+
+GitHub
+Fork vs Clone
+need to fork, b/c otherwise will try to change the original
+cloning is something you want to change
+
+ex. git clone (link to the git hub repository)
+
+git status
+  -lets you see what's changed in Git
+
+git add
+  -lets you add your new program to your git
+
+git commit
+  -actually saves to your branch
+  -have to provide a message, so easier to give on the command line
+so use
+  git commit my_file -m "Updates that Drew wanted."
+
+git push
+  -sends your program
+
+git help
+
+git init
+
+ls -a
+  if see a .git (means you're in the right area)
+
+need to make sure to change directory (cd) into
+one of your git hub repositories
+
+
+
+Intro to Unix
+Directories==folders
+
+Commands
+  ls
+    list
+    -l --> a long listing
+  pwd
+    present working directory
+  cd
+    change directory
+      -will take you back to home directory
+  .
+    where you are at
+  touch
+    -lets you create new files
+    ex. touch my_file
+    -also lets you update the timestamp
+  mkdir
+    -make a directory
+    ex. my_dir
+  rm
+    remove a file
+    ex. remove my_file
+  rmdir
+    remove a directory
+    ex. rmdir my_dir
+  grep
+    -find something within your file structure
+    ex. grep watermark *
+  cp
+    -makes copy of your file
+    ex. cp my_file my_file2
+    (have to type out where you want it to go to)
+  !
+    -bang
+      ex. !p (first letter of most recent command you just did will then run again)
+
+
+
+DANGEROUS COMMAND
+  rm -r (will ask)  or rm -rf (forced, wont even ask)
+    remove recursively, keeps going down, everything within it
+    very dangerous,
