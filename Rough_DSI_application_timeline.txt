@@ -1,0 +1,17 @@
+Rough DSI application timeline 
+
+Submit your app--> Week3 (2/6-2/10)
+
+Submit take home--> Week4 (2/13-2/17)
+
+Complete Stats Interview--> Week5 (2/20-2/24)
+
+Schedule Python Interview--> Week6 (3/3)
+
+
+
+Stats
+z test and t test
+
+Week 1:
+Install 

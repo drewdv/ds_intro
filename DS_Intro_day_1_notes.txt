@@ -48,6 +48,10 @@ Commands
       -will take you back to home directory
   .
     where you are at
+  ..
+    one level above
+  cd..
+    moves you one level about
   touch
     -lets you create new files
     ex. touch my_file
